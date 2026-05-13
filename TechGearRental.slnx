@@ -7,12 +7,6 @@
   <Folder Name="/src/TechGearRental.Application/Features/" />
   <Folder Name="/src/TechGearRental.Application/Interfaces/" />
   <Folder Name="/src/TechGearRental.Application/Mappings/" />
-  <Folder Name="/src/TechGearRental.Domain/" />
-  <Folder Name="/src/TechGearRental.Domain/Common/">
-    <File Path="BaseEntity.cs" />
-  </Folder>
-  <Folder Name="/src/TechGearRental.Domain/Entities/" />
-  <Folder Name="/src/TechGearRental.Domain/Enums/" />
   <Folder Name="/src/TechGearRental.Infrastructure/" />
   <Folder Name="/tests/" />
 </Solution>
