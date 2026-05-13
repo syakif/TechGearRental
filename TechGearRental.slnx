@@ -1,3 +1,18 @@
 <Solution>
-  <Project Path="TechGearRental.WebApi/TechGearRental.WebApi.csproj" />
+  <Folder Name="/src/">
+    <Project Path="TechGearRental.WebApi/TechGearRental.WebApi.csproj" />
+  </Folder>
+  <Folder Name="/src/TechGearRental.Application/" />
+  <Folder Name="/src/TechGearRental.Application/DTOs/" />
+  <Folder Name="/src/TechGearRental.Application/Features/" />
+  <Folder Name="/src/TechGearRental.Application/Interfaces/" />
+  <Folder Name="/src/TechGearRental.Application/Mappings/" />
+  <Folder Name="/src/TechGearRental.Domain/" />
+  <Folder Name="/src/TechGearRental.Domain/Common/">
+    <File Path="BaseEntity.cs" />
+  </Folder>
+  <Folder Name="/src/TechGearRental.Domain/Entities/" />
+  <Folder Name="/src/TechGearRental.Domain/Enums/" />
+  <Folder Name="/src/TechGearRental.Infrastructure/" />
+  <Folder Name="/tests/" />
 </Solution>
